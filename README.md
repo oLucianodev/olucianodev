@@ -28,7 +28,6 @@ Tenho experiência prática com:
 - Arquitetura em camadas
 - Conceitos de SOLID e Design Patterns
 - Arquitetura Hexagonal
-- Controle transacional com @Transactional
 
 Atualmente participo de um projeto real em grupo para desenvolvimento de um sistema completo, aplicando conceitos de engenharia de software na prática.
 
